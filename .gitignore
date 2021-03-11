@@ -1,0 +1,6 @@
+Test_Box/
+.vscode/
+__pycache__/
+TSDF/build/
+TSDF/tsdf_volume.c
+TSDF/tsdf_volume.cpython-36m-x86_64-linux-gnu.so
